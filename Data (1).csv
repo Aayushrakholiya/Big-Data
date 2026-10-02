@@ -1,0 +1,701 @@
+Province_Name,Occupation,Age_Group,Count
+Canada,  0 Management occupations,  15 to 24 years,249640
+Canada,"  1 Business, finance and administration occupations",  15 to 24 years,913400
+Canada,  2 Natural and applied sciences and related occupations,  15 to 24 years,310305
+Canada,  3 Health occupations,  15 to 24 years,304445
+Canada,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,562215
+Canada,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,351960
+Canada,  6 Sales and service occupations,  15 to 24 years,4408630
+Canada,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,1094730
+Canada,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,346420
+Canada,  9 Occupations in manufacturing and utilities,  15 to 24 years,284705
+Canada,  0 Management occupations,  25 to 64 years,7779235
+Canada,"  1 Business, finance and administration occupations",  25 to 64 years,10151345
+Canada,  2 Natural and applied sciences and related occupations,  25 to 64 years,4540170
+Canada,  3 Health occupations,  25 to 64 years,4108820
+Canada,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,7406450
+Canada,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,1689720
+Canada,  6 Sales and service occupations,  25 to 64 years,10667115
+Canada,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,8560015
+Canada,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,1059115
+Canada,  9 Occupations in manufacturing and utilities,  25 to 64 years,2671065
+Canada,  0 Management occupations,    25 to 34 years,1319195
+Canada,"  1 Business, finance and administration occupations",    25 to 34 years,2233365
+Canada,  2 Natural and applied sciences and related occupations,    25 to 34 years,1300510
+Canada,  3 Health occupations,    25 to 34 years,1060880
+Canada,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,2048525
+Canada,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,500020
+Canada,  6 Sales and service occupations,    25 to 34 years,2767400
+Canada,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,2023245
+Canada,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,273195
+Canada,  9 Occupations in manufacturing and utilities,    25 to 34 years,520650
+Canada,  0 Management occupations,  65 to 74 years,427400
+Canada,"  1 Business, finance and administration occupations",  65 to 74 years,403225
+Canada,  2 Natural and applied sciences and related occupations,  65 to 74 years,101865
+Canada,  3 Health occupations,  65 to 74 years,124710
+Canada,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,245485
+Canada,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,80405
+Canada,  6 Sales and service occupations,  65 to 74 years,468635
+Canada,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,300300
+Canada,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,70890
+Canada,  9 Occupations in manufacturing and utilities,  65 to 74 years,50215
+Canada,  0 Management occupations,  75 years and over,117170
+Canada,"  1 Business, finance and administration occupations",  75 years and over,61160
+Canada,  2 Natural and applied sciences and related occupations,  75 years and over,14375
+Canada,  3 Health occupations,  75 years and over,17940
+Canada,"  4 Occupations in education, law and social, community and government services",  75 years and over,32785
+Canada,"  5 Occupations in art, culture, recreation and sport",  75 years and over,17375
+Canada,  6 Sales and service occupations,  75 years and over,69780
+Canada,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,38565
+Canada,"  8 Natural resources, agriculture and related production occupations",  75 years and over,20235
+Canada,  9 Occupations in manufacturing and utilities,  75 years and over,7415
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  0 Management occupations,  15 to 24 years,1480
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  1 Business, finance and administration occupations",  15 to 24 years,7575
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  2 Natural and applied sciences and related occupations,  15 to 24 years,4070
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  3 Health occupations,  15 to 24 years,3895
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,8400
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,3165
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  6 Sales and service occupations,  15 to 24 years,50745
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,13800
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,2800
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  9 Occupations in manufacturing and utilities,  15 to 24 years,2640
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  0 Management occupations,  25 to 64 years,78560
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  1 Business, finance and administration occupations",  25 to 64 years,114655
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  2 Natural and applied sciences and related occupations,  25 to 64 years,55815
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  3 Health occupations,  25 to 64 years,67385
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,112625
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,10815
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  6 Sales and service occupations,  25 to 64 years,140265
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,130215
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,33720
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  9 Occupations in manufacturing and utilities,  25 to 64 years,33695
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  0 Management occupations,    25 to 34 years,10810
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  1 Business, finance and administration occupations",    25 to 34 years,21855
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  2 Natural and applied sciences and related occupations,    25 to 34 years,17200
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  3 Health occupations,    25 to 34 years,17215
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,27580
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,2390
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  6 Sales and service occupations,    25 to 34 years,32830
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,23660
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,4990
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  9 Occupations in manufacturing and utilities,    25 to 34 years,4145
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  0 Management occupations,  65 to 74 years,2620
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  1 Business, finance and administration occupations",  65 to 74 years,3210
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  2 Natural and applied sciences and related occupations,  65 to 74 years,1025
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  3 Health occupations,  65 to 74 years,905
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,3390
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,755
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  6 Sales and service occupations,  65 to 74 years,4840
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,3020
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,1315
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  9 Occupations in manufacturing and utilities,  65 to 74 years,330
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  0 Management occupations,  75 years and over,240
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  1 Business, finance and administration occupations",  75 years and over,125
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  2 Natural and applied sciences and related occupations,  75 years and over,0
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  3 Health occupations,  75 years and over,0
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  4 Occupations in education, law and social, community and government services",  75 years and over,245
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  5 Occupations in art, culture, recreation and sport",  75 years and over,30
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  6 Sales and service occupations,  75 years and over,380
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,120
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,"  8 Natural resources, agriculture and related production occupations",  75 years and over,15
+Newfoundland and Labrador / Terre-Neuve-et-Labrador,  9 Occupations in manufacturing and utilities,  75 years and over,0
+Prince Edward Island / Île-du-Prince-Édouard,  0 Management occupations,  15 to 24 years,955
+Prince Edward Island / Île-du-Prince-Édouard,"  1 Business, finance and administration occupations",  15 to 24 years,2790
+Prince Edward Island / Île-du-Prince-Édouard,  2 Natural and applied sciences and related occupations,  15 to 24 years,1170
+Prince Edward Island / Île-du-Prince-Édouard,  3 Health occupations,  15 to 24 years,2160
+Prince Edward Island / Île-du-Prince-Édouard,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,2295
+Prince Edward Island / Île-du-Prince-Édouard,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,965
+Prince Edward Island / Île-du-Prince-Édouard,  6 Sales and service occupations,  15 to 24 years,19390
+Prince Edward Island / Île-du-Prince-Édouard,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,4390
+Prince Edward Island / Île-du-Prince-Édouard,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,2780
+Prince Edward Island / Île-du-Prince-Édouard,  9 Occupations in manufacturing and utilities,  15 to 24 years,1515
+Prince Edward Island / Île-du-Prince-Édouard,  0 Management occupations,  25 to 64 years,28110
+Prince Edward Island / Île-du-Prince-Édouard,"  1 Business, finance and administration occupations",  25 to 64 years,39890
+Prince Edward Island / Île-du-Prince-Édouard,  2 Natural and applied sciences and related occupations,  25 to 64 years,12765
+Prince Edward Island / Île-du-Prince-Édouard,  3 Health occupations,  25 to 64 years,17230
+Prince Edward Island / Île-du-Prince-Édouard,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,30905
+Prince Edward Island / Île-du-Prince-Édouard,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,4885
+Prince Edward Island / Île-du-Prince-Édouard,  6 Sales and service occupations,  25 to 64 years,41115
+Prince Edward Island / Île-du-Prince-Édouard,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,35880
+Prince Edward Island / Île-du-Prince-Édouard,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,17825
+Prince Edward Island / Île-du-Prince-Édouard,  9 Occupations in manufacturing and utilities,  25 to 64 years,9335
+Prince Edward Island / Île-du-Prince-Édouard,  0 Management occupations,    25 to 34 years,4540
+Prince Edward Island / Île-du-Prince-Édouard,"  1 Business, finance and administration occupations",    25 to 34 years,7085
+Prince Edward Island / Île-du-Prince-Édouard,  2 Natural and applied sciences and related occupations,    25 to 34 years,3425
+Prince Edward Island / Île-du-Prince-Édouard,  3 Health occupations,    25 to 34 years,3630
+Prince Edward Island / Île-du-Prince-Édouard,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,6295
+Prince Edward Island / Île-du-Prince-Édouard,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,1530
+Prince Edward Island / Île-du-Prince-Édouard,  6 Sales and service occupations,    25 to 34 years,9280
+Prince Edward Island / Île-du-Prince-Édouard,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,6860
+Prince Edward Island / Île-du-Prince-Édouard,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,2825
+Prince Edward Island / Île-du-Prince-Édouard,  9 Occupations in manufacturing and utilities,    25 to 34 years,1845
+Prince Edward Island / Île-du-Prince-Édouard,  0 Management occupations,  65 to 74 years,1905
+Prince Edward Island / Île-du-Prince-Édouard,"  1 Business, finance and administration occupations",  65 to 74 years,1135
+Prince Edward Island / Île-du-Prince-Édouard,  2 Natural and applied sciences and related occupations,  65 to 74 years,210
+Prince Edward Island / Île-du-Prince-Édouard,  3 Health occupations,  65 to 74 years,525
+Prince Edward Island / Île-du-Prince-Édouard,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,970
+Prince Edward Island / Île-du-Prince-Édouard,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,335
+Prince Edward Island / Île-du-Prince-Édouard,  6 Sales and service occupations,  65 to 74 years,1635
+Prince Edward Island / Île-du-Prince-Édouard,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,1895
+Prince Edward Island / Île-du-Prince-Édouard,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,895
+Prince Edward Island / Île-du-Prince-Édouard,  9 Occupations in manufacturing and utilities,  65 to 74 years,330
+Prince Edward Island / Île-du-Prince-Édouard,  0 Management occupations,  75 years and over,590
+Prince Edward Island / Île-du-Prince-Édouard,"  1 Business, finance and administration occupations",  75 years and over,75
+Prince Edward Island / Île-du-Prince-Édouard,  2 Natural and applied sciences and related occupations,  75 years and over,0
+Prince Edward Island / Île-du-Prince-Édouard,  3 Health occupations,  75 years and over,0
+Prince Edward Island / Île-du-Prince-Édouard,"  4 Occupations in education, law and social, community and government services",  75 years and over,0
+Prince Edward Island / Île-du-Prince-Édouard,"  5 Occupations in art, culture, recreation and sport",  75 years and over,0
+Prince Edward Island / Île-du-Prince-Édouard,  6 Sales and service occupations,  75 years and over,100
+Prince Edward Island / Île-du-Prince-Édouard,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,150
+Prince Edward Island / Île-du-Prince-Édouard,"  8 Natural resources, agriculture and related production occupations",  75 years and over,85
+Prince Edward Island / Île-du-Prince-Édouard,  9 Occupations in manufacturing and utilities,  75 years and over,0
+Nova Scotia / Nouvelle-Écosse,  0 Management occupations,  15 to 24 years,7500
+Nova Scotia / Nouvelle-Écosse,"  1 Business, finance and administration occupations",  15 to 24 years,18100
+Nova Scotia / Nouvelle-Écosse,  2 Natural and applied sciences and related occupations,  15 to 24 years,7625
+Nova Scotia / Nouvelle-Écosse,  3 Health occupations,  15 to 24 years,7915
+Nova Scotia / Nouvelle-Écosse,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,16440
+Nova Scotia / Nouvelle-Écosse,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,8005
+Nova Scotia / Nouvelle-Écosse,  6 Sales and service occupations,  15 to 24 years,120315
+Nova Scotia / Nouvelle-Écosse,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,24180
+Nova Scotia / Nouvelle-Écosse,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,9600
+Nova Scotia / Nouvelle-Écosse,  9 Occupations in manufacturing and utilities,  15 to 24 years,5900
+Nova Scotia / Nouvelle-Écosse,  0 Management occupations,  25 to 64 years,181565
+Nova Scotia / Nouvelle-Écosse,"  1 Business, finance and administration occupations",  25 to 64 years,245230
+Nova Scotia / Nouvelle-Écosse,  2 Natural and applied sciences and related occupations,  25 to 64 years,100400
+Nova Scotia / Nouvelle-Écosse,  3 Health occupations,  25 to 64 years,124890
+Nova Scotia / Nouvelle-Écosse,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,215645
+Nova Scotia / Nouvelle-Écosse,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,34150
+Nova Scotia / Nouvelle-Écosse,  6 Sales and service occupations,  25 to 64 years,292985
+Nova Scotia / Nouvelle-Écosse,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,222630
+Nova Scotia / Nouvelle-Écosse,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,49620
+Nova Scotia / Nouvelle-Écosse,  9 Occupations in manufacturing and utilities,  25 to 64 years,57690
+Nova Scotia / Nouvelle-Écosse,  0 Management occupations,    25 to 34 years,25730
+Nova Scotia / Nouvelle-Écosse,"  1 Business, finance and administration occupations",    25 to 34 years,44915
+Nova Scotia / Nouvelle-Écosse,  2 Natural and applied sciences and related occupations,    25 to 34 years,25915
+Nova Scotia / Nouvelle-Écosse,  3 Health occupations,    25 to 34 years,28330
+Nova Scotia / Nouvelle-Écosse,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,58250
+Nova Scotia / Nouvelle-Écosse,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,7890
+Nova Scotia / Nouvelle-Écosse,  6 Sales and service occupations,    25 to 34 years,71335
+Nova Scotia / Nouvelle-Écosse,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,41275
+Nova Scotia / Nouvelle-Écosse,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,9605
+Nova Scotia / Nouvelle-Écosse,  9 Occupations in manufacturing and utilities,    25 to 34 years,11045
+Nova Scotia / Nouvelle-Écosse,  0 Management occupations,  65 to 74 years,10305
+Nova Scotia / Nouvelle-Écosse,"  1 Business, finance and administration occupations",  65 to 74 years,9815
+Nova Scotia / Nouvelle-Écosse,  2 Natural and applied sciences and related occupations,  65 to 74 years,2840
+Nova Scotia / Nouvelle-Écosse,  3 Health occupations,  65 to 74 years,3330
+Nova Scotia / Nouvelle-Écosse,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,7135
+Nova Scotia / Nouvelle-Écosse,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,1830
+Nova Scotia / Nouvelle-Écosse,  6 Sales and service occupations,  65 to 74 years,13310
+Nova Scotia / Nouvelle-Écosse,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,8075
+Nova Scotia / Nouvelle-Écosse,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,4040
+Nova Scotia / Nouvelle-Écosse,  9 Occupations in manufacturing and utilities,  65 to 74 years,965
+Nova Scotia / Nouvelle-Écosse,  0 Management occupations,  75 years and over,2050
+Nova Scotia / Nouvelle-Écosse,"  1 Business, finance and administration occupations",  75 years and over,1205
+Nova Scotia / Nouvelle-Écosse,  2 Natural and applied sciences and related occupations,  75 years and over,225
+Nova Scotia / Nouvelle-Écosse,  3 Health occupations,  75 years and over,410
+Nova Scotia / Nouvelle-Écosse,"  4 Occupations in education, law and social, community and government services",  75 years and over,680
+Nova Scotia / Nouvelle-Écosse,"  5 Occupations in art, culture, recreation and sport",  75 years and over,720
+Nova Scotia / Nouvelle-Écosse,  6 Sales and service occupations,  75 years and over,1480
+Nova Scotia / Nouvelle-Écosse,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,850
+Nova Scotia / Nouvelle-Écosse,"  8 Natural resources, agriculture and related production occupations",  75 years and over,690
+Nova Scotia / Nouvelle-Écosse,  9 Occupations in manufacturing and utilities,  75 years and over,65
+New Brunswick / Nouveau-Brunswick,  0 Management occupations,  15 to 24 years,4135
+New Brunswick / Nouveau-Brunswick,"  1 Business, finance and administration occupations",  15 to 24 years,14875
+New Brunswick / Nouveau-Brunswick,  2 Natural and applied sciences and related occupations,  15 to 24 years,6685
+New Brunswick / Nouveau-Brunswick,  3 Health occupations,  15 to 24 years,7890
+New Brunswick / Nouveau-Brunswick,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,16220
+New Brunswick / Nouveau-Brunswick,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,5760
+New Brunswick / Nouveau-Brunswick,  6 Sales and service occupations,  15 to 24 years,91090
+New Brunswick / Nouveau-Brunswick,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,22315
+New Brunswick / Nouveau-Brunswick,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,7320
+New Brunswick / Nouveau-Brunswick,  9 Occupations in manufacturing and utilities,  15 to 24 years,5830
+New Brunswick / Nouveau-Brunswick,  0 Management occupations,  25 to 64 years,138925
+New Brunswick / Nouveau-Brunswick,"  1 Business, finance and administration occupations",  25 to 64 years,194100
+New Brunswick / Nouveau-Brunswick,  2 Natural and applied sciences and related occupations,  25 to 64 years,74225
+New Brunswick / Nouveau-Brunswick,  3 Health occupations,  25 to 64 years,104630
+New Brunswick / Nouveau-Brunswick,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,168315
+New Brunswick / Nouveau-Brunswick,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,21755
+New Brunswick / Nouveau-Brunswick,  6 Sales and service occupations,  25 to 64 years,250645
+New Brunswick / Nouveau-Brunswick,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,195670
+New Brunswick / Nouveau-Brunswick,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,32620
+New Brunswick / Nouveau-Brunswick,  9 Occupations in manufacturing and utilities,  25 to 64 years,56495
+New Brunswick / Nouveau-Brunswick,  0 Management occupations,    25 to 34 years,21595
+New Brunswick / Nouveau-Brunswick,"  1 Business, finance and administration occupations",    25 to 34 years,38780
+New Brunswick / Nouveau-Brunswick,  2 Natural and applied sciences and related occupations,    25 to 34 years,22240
+New Brunswick / Nouveau-Brunswick,  3 Health occupations,    25 to 34 years,26320
+New Brunswick / Nouveau-Brunswick,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,44190
+New Brunswick / Nouveau-Brunswick,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,5015
+New Brunswick / Nouveau-Brunswick,  6 Sales and service occupations,    25 to 34 years,59430
+New Brunswick / Nouveau-Brunswick,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,35770
+New Brunswick / Nouveau-Brunswick,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,6320
+New Brunswick / Nouveau-Brunswick,  9 Occupations in manufacturing and utilities,    25 to 34 years,10190
+New Brunswick / Nouveau-Brunswick,  0 Management occupations,  65 to 74 years,6740
+New Brunswick / Nouveau-Brunswick,"  1 Business, finance and administration occupations",  65 to 74 years,5985
+New Brunswick / Nouveau-Brunswick,  2 Natural and applied sciences and related occupations,  65 to 74 years,1055
+New Brunswick / Nouveau-Brunswick,  3 Health occupations,  65 to 74 years,2275
+New Brunswick / Nouveau-Brunswick,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,5375
+New Brunswick / Nouveau-Brunswick,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,925
+New Brunswick / Nouveau-Brunswick,  6 Sales and service occupations,  65 to 74 years,7910
+New Brunswick / Nouveau-Brunswick,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,5845
+New Brunswick / Nouveau-Brunswick,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,1910
+New Brunswick / Nouveau-Brunswick,  9 Occupations in manufacturing and utilities,  65 to 74 years,895
+New Brunswick / Nouveau-Brunswick,  0 Management occupations,  75 years and over,1145
+New Brunswick / Nouveau-Brunswick,"  1 Business, finance and administration occupations",  75 years and over,900
+New Brunswick / Nouveau-Brunswick,  2 Natural and applied sciences and related occupations,  75 years and over,65
+New Brunswick / Nouveau-Brunswick,  3 Health occupations,  75 years and over,625
+New Brunswick / Nouveau-Brunswick,"  4 Occupations in education, law and social, community and government services",  75 years and over,670
+New Brunswick / Nouveau-Brunswick,"  5 Occupations in art, culture, recreation and sport",  75 years and over,35
+New Brunswick / Nouveau-Brunswick,  6 Sales and service occupations,  75 years and over,1200
+New Brunswick / Nouveau-Brunswick,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,740
+New Brunswick / Nouveau-Brunswick,"  8 Natural resources, agriculture and related production occupations",  75 years and over,300
+New Brunswick / Nouveau-Brunswick,  9 Occupations in manufacturing and utilities,  75 years and over,160
+Quebec / Québec,  0 Management occupations,  15 to 24 years,51325
+Quebec / Québec,"  1 Business, finance and administration occupations",  15 to 24 years,200250
+Quebec / Québec,  2 Natural and applied sciences and related occupations,  15 to 24 years,69270
+Quebec / Québec,  3 Health occupations,  15 to 24 years,91190
+Quebec / Québec,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,128050
+Quebec / Québec,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,85075
+Quebec / Québec,  6 Sales and service occupations,  15 to 24 years,1110445
+Quebec / Québec,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,227995
+Quebec / Québec,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,46965
+Quebec / Québec,  9 Occupations in manufacturing and utilities,  15 to 24 years,84175
+Quebec / Québec,  0 Management occupations,  25 to 64 years,1665390
+Quebec / Québec,"  1 Business, finance and administration occupations",  25 to 64 years,2440715
+Quebec / Québec,  2 Natural and applied sciences and related occupations,  25 to 64 years,1059110
+Quebec / Québec,  3 Health occupations,  25 to 64 years,991585
+Quebec / Québec,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,1763785
+Quebec / Québec,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,427115
+Quebec / Québec,  6 Sales and service occupations,  25 to 64 years,2549950
+Quebec / Québec,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,1947215
+Quebec / Québec,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,185915
+Quebec / Québec,  9 Occupations in manufacturing and utilities,  25 to 64 years,723780
+Quebec / Québec,  0 Management occupations,    25 to 34 years,286515
+Quebec / Québec,"  1 Business, finance and administration occupations",    25 to 34 years,540610
+Quebec / Québec,  2 Natural and applied sciences and related occupations,    25 to 34 years,341545
+Quebec / Québec,  3 Health occupations,    25 to 34 years,278595
+Quebec / Québec,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,529780
+Quebec / Québec,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,141710
+Quebec / Québec,  6 Sales and service occupations,    25 to 34 years,627345
+Quebec / Québec,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,459295
+Quebec / Québec,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,41520
+Quebec / Québec,  9 Occupations in manufacturing and utilities,    25 to 34 years,148880
+Quebec / Québec,  0 Management occupations,  65 to 74 years,72360
+Quebec / Québec,"  1 Business, finance and administration occupations",  65 to 74 years,80095
+Quebec / Québec,  2 Natural and applied sciences and related occupations,  65 to 74 years,16065
+Quebec / Québec,  3 Health occupations,  65 to 74 years,25950
+Quebec / Québec,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,46205
+Quebec / Québec,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,14810
+Quebec / Québec,  6 Sales and service occupations,  65 to 74 years,100510
+Quebec / Québec,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,61360
+Quebec / Québec,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,11000
+Quebec / Québec,  9 Occupations in manufacturing and utilities,  65 to 74 years,11455
+Quebec / Québec,  0 Management occupations,  75 years and over,12425
+Quebec / Québec,"  1 Business, finance and administration occupations",  75 years and over,10530
+Quebec / Québec,  2 Natural and applied sciences and related occupations,  75 years and over,2420
+Quebec / Québec,  3 Health occupations,  75 years and over,4080
+Quebec / Québec,"  4 Occupations in education, law and social, community and government services",  75 years and over,5975
+Quebec / Québec,"  5 Occupations in art, culture, recreation and sport",  75 years and over,2865
+Quebec / Québec,  6 Sales and service occupations,  75 years and over,12795
+Quebec / Québec,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,6890
+Quebec / Québec,"  8 Natural resources, agriculture and related production occupations",  75 years and over,1815
+Quebec / Québec,  9 Occupations in manufacturing and utilities,  75 years and over,1880
+Ontario,  0 Management occupations,  15 to 24 years,93315
+Ontario,"  1 Business, finance and administration occupations",  15 to 24 years,361045
+Ontario,  2 Natural and applied sciences and related occupations,  15 to 24 years,115435
+Ontario,  3 Health occupations,  15 to 24 years,93960
+Ontario,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,217435
+Ontario,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,146030
+Ontario,  6 Sales and service occupations,  15 to 24 years,1621290
+Ontario,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,339370
+Ontario,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,127175
+Ontario,  9 Occupations in manufacturing and utilities,  15 to 24 years,105680
+Ontario,  0 Management occupations,  25 to 64 years,3031990
+Ontario,"  1 Business, finance and administration occupations",  25 to 64 years,3940270
+Ontario,  2 Natural and applied sciences and related occupations,  25 to 64 years,1821235
+Ontario,  3 Health occupations,  25 to 64 years,1468315
+Ontario,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,2846975
+Ontario,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,680935
+Ontario,  6 Sales and service occupations,  25 to 64 years,4083760
+Ontario,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,2991120
+Ontario,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,263990
+Ontario,  9 Occupations in manufacturing and utilities,  25 to 64 years,1174765
+Ontario,  0 Management occupations,    25 to 34 years,511630
+Ontario,"  1 Business, finance and administration occupations",    25 to 34 years,864470
+Ontario,  2 Natural and applied sciences and related occupations,    25 to 34 years,473620
+Ontario,  3 Health occupations,    25 to 34 years,358120
+Ontario,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,791060
+Ontario,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,195005
+Ontario,  6 Sales and service occupations,    25 to 34 years,1050900
+Ontario,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,645545
+Ontario,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,69270
+Ontario,  9 Occupations in manufacturing and utilities,    25 to 34 years,207510
+Ontario,  0 Management occupations,  65 to 74 years,146035
+Ontario,"  1 Business, finance and administration occupations",  65 to 74 years,167910
+Ontario,  2 Natural and applied sciences and related occupations,  65 to 74 years,43165
+Ontario,  3 Health occupations,  65 to 74 years,51270
+Ontario,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,99360
+Ontario,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,34990
+Ontario,  6 Sales and service occupations,  65 to 74 years,186285
+Ontario,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,110400
+Ontario,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,17875
+Ontario,  9 Occupations in manufacturing and utilities,  65 to 74 years,22605
+Ontario,  0 Management occupations,  75 years and over,40360
+Ontario,"  1 Business, finance and administration occupations",  75 years and over,27030
+Ontario,  2 Natural and applied sciences and related occupations,  75 years and over,6440
+Ontario,  3 Health occupations,  75 years and over,7435
+Ontario,"  4 Occupations in education, law and social, community and government services",  75 years and over,14815
+Ontario,"  5 Occupations in art, culture, recreation and sport",  75 years and over,7405
+Ontario,  6 Sales and service occupations,  75 years and over,30700
+Ontario,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,13730
+Ontario,"  8 Natural resources, agriculture and related production occupations",  75 years and over,4785
+Ontario,  9 Occupations in manufacturing and utilities,  75 years and over,2630
+Manitoba,  0 Management occupations,  15 to 24 years,10370
+Manitoba,"  1 Business, finance and administration occupations",  15 to 24 years,33115
+Manitoba,  2 Natural and applied sciences and related occupations,  15 to 24 years,9395
+Manitoba,  3 Health occupations,  15 to 24 years,12445
+Manitoba,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,28955
+Manitoba,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,10805
+Manitoba,  6 Sales and service occupations,  15 to 24 years,178080
+Manitoba,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,50370
+Manitoba,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,19465
+Manitoba,  9 Occupations in manufacturing and utilities,  15 to 24 years,10930
+Manitoba,  0 Management occupations,  25 to 64 years,277860
+Manitoba,"  1 Business, finance and administration occupations",  25 to 64 years,341295
+Manitoba,  2 Natural and applied sciences and related occupations,  25 to 64 years,121275
+Manitoba,  3 Health occupations,  25 to 64 years,170470
+Manitoba,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,285035
+Manitoba,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,43350
+Manitoba,  6 Sales and service occupations,  25 to 64 years,345560
+Manitoba,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,313655
+Manitoba,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,41240
+Manitoba,  9 Occupations in manufacturing and utilities,  25 to 64 years,99075
+Manitoba,  0 Management occupations,    25 to 34 years,44245
+Manitoba,"  1 Business, finance and administration occupations",    25 to 34 years,74210
+Manitoba,  2 Natural and applied sciences and related occupations,    25 to 34 years,36395
+Manitoba,  3 Health occupations,    25 to 34 years,42235
+Manitoba,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,71015
+Manitoba,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,11370
+Manitoba,  6 Sales and service occupations,    25 to 34 years,94675
+Manitoba,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,76855
+Manitoba,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,11570
+Manitoba,  9 Occupations in manufacturing and utilities,    25 to 34 years,21275
+Manitoba,  0 Management occupations,  65 to 74 years,21155
+Manitoba,"  1 Business, finance and administration occupations",  65 to 74 years,15575
+Manitoba,  2 Natural and applied sciences and related occupations,  65 to 74 years,2720
+Manitoba,  3 Health occupations,  65 to 74 years,4785
+Manitoba,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,10590
+Manitoba,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,2765
+Manitoba,  6 Sales and service occupations,  65 to 74 years,15965
+Manitoba,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,14720
+Manitoba,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,5425
+Manitoba,  9 Occupations in manufacturing and utilities,  65 to 74 years,2145
+Manitoba,  0 Management occupations,  75 years and over,6665
+Manitoba,"  1 Business, finance and administration occupations",  75 years and over,2125
+Manitoba,  2 Natural and applied sciences and related occupations,  75 years and over,350
+Manitoba,  3 Health occupations,  75 years and over,855
+Manitoba,"  4 Occupations in education, law and social, community and government services",  75 years and over,1535
+Manitoba,"  5 Occupations in art, culture, recreation and sport",  75 years and over,400
+Manitoba,  6 Sales and service occupations,  75 years and over,2250
+Manitoba,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,2220
+Manitoba,"  8 Natural resources, agriculture and related production occupations",  75 years and over,1485
+Manitoba,  9 Occupations in manufacturing and utilities,  75 years and over,90
+Saskatchewan,  0 Management occupations,  15 to 24 years,11180
+Saskatchewan,"  1 Business, finance and administration occupations",  15 to 24 years,31185
+Saskatchewan,  2 Natural and applied sciences and related occupations,  15 to 24 years,9945
+Saskatchewan,  3 Health occupations,  15 to 24 years,12215
+Saskatchewan,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,19930
+Saskatchewan,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,9085
+Saskatchewan,  6 Sales and service occupations,  15 to 24 years,136835
+Saskatchewan,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,59940
+Saskatchewan,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,24175
+Saskatchewan,  9 Occupations in manufacturing and utilities,  15 to 24 years,8590
+Saskatchewan,  0 Management occupations,  25 to 64 years,323025
+Saskatchewan,"  1 Business, finance and administration occupations",  25 to 64 years,279150
+Saskatchewan,  2 Natural and applied sciences and related occupations,  25 to 64 years,93415
+Saskatchewan,  3 Health occupations,  25 to 64 years,139470
+Saskatchewan,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,218145
+Saskatchewan,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,29860
+Saskatchewan,  6 Sales and service occupations,  25 to 64 years,302535
+Saskatchewan,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,305860
+Saskatchewan,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,69670
+Saskatchewan,  9 Occupations in manufacturing and utilities,  25 to 64 years,49955
+Saskatchewan,  0 Management occupations,    25 to 34 years,50435
+Saskatchewan,"  1 Business, finance and administration occupations",    25 to 34 years,61090
+Saskatchewan,  2 Natural and applied sciences and related occupations,    25 to 34 years,31775
+Saskatchewan,  3 Health occupations,    25 to 34 years,38305
+Saskatchewan,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,58740
+Saskatchewan,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,7255
+Saskatchewan,  6 Sales and service occupations,    25 to 34 years,79500
+Saskatchewan,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,82220
+Saskatchewan,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,19035
+Saskatchewan,  9 Occupations in manufacturing and utilities,    25 to 34 years,13540
+Saskatchewan,  0 Management occupations,  65 to 74 years,40970
+Saskatchewan,"  1 Business, finance and administration occupations",  65 to 74 years,12350
+Saskatchewan,  2 Natural and applied sciences and related occupations,  65 to 74 years,1850
+Saskatchewan,  3 Health occupations,  65 to 74 years,4560
+Saskatchewan,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,7495
+Saskatchewan,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,2040
+Saskatchewan,  6 Sales and service occupations,  65 to 74 years,17330
+Saskatchewan,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,13330
+Saskatchewan,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,7290
+Saskatchewan,  9 Occupations in manufacturing and utilities,  65 to 74 years,1290
+Saskatchewan,  0 Management occupations,  75 years and over,18865
+Saskatchewan,"  1 Business, finance and administration occupations",  75 years and over,2500
+Saskatchewan,  2 Natural and applied sciences and related occupations,  75 years and over,90
+Saskatchewan,  3 Health occupations,  75 years and over,430
+Saskatchewan,"  4 Occupations in education, law and social, community and government services",  75 years and over,1170
+Saskatchewan,"  5 Occupations in art, culture, recreation and sport",  75 years and over,735
+Saskatchewan,  6 Sales and service occupations,  75 years and over,3245
+Saskatchewan,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,2515
+Saskatchewan,"  8 Natural resources, agriculture and related production occupations",  75 years and over,4380
+Saskatchewan,  9 Occupations in manufacturing and utilities,  75 years and over,435
+Alberta,  0 Management occupations,  15 to 24 years,36475
+Alberta,"  1 Business, finance and administration occupations",  15 to 24 years,130885
+Alberta,  2 Natural and applied sciences and related occupations,  15 to 24 years,50720
+Alberta,  3 Health occupations,  15 to 24 years,43100
+Alberta,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,61690
+Alberta,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,34955
+Alberta,  6 Sales and service occupations,  15 to 24 years,504590
+Alberta,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,199640
+Alberta,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,63590
+Alberta,  9 Occupations in manufacturing and utilities,  15 to 24 years,29605
+Alberta,  0 Management occupations,  25 to 64 years,980435
+Alberta,"  1 Business, finance and administration occupations",  25 to 64 years,1216550
+Alberta,  2 Natural and applied sciences and related occupations,  25 to 64 years,617400
+Alberta,  3 Health occupations,  25 to 64 years,453715
+Alberta,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,765345
+Alberta,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,151615
+Alberta,  6 Sales and service occupations,  25 to 64 years,1133480
+Alberta,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,1238125
+Alberta,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,193310
+Alberta,  9 Occupations in manufacturing and utilities,  25 to 64 years,216260
+Alberta,  0 Management occupations,    25 to 34 years,182025
+Alberta,"  1 Business, finance and administration occupations",    25 to 34 years,297465
+Alberta,  2 Natural and applied sciences and related occupations,    25 to 34 years,188565
+Alberta,  3 Health occupations,    25 to 34 years,131860
+Alberta,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,220370
+Alberta,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,48415
+Alberta,  6 Sales and service occupations,    25 to 34 years,332990
+Alberta,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,370235
+Alberta,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,64690
+Alberta,  9 Occupations in manufacturing and utilities,    25 to 34 years,53970
+Alberta,  0 Management occupations,  65 to 74 years,66240
+Alberta,"  1 Business, finance and administration occupations",  65 to 74 years,46845
+Alberta,  2 Natural and applied sciences and related occupations,  65 to 74 years,13755
+Alberta,  3 Health occupations,  65 to 74 years,12670
+Alberta,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,23635
+Alberta,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,6520
+Alberta,  6 Sales and service occupations,  65 to 74 years,52375
+Alberta,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,39655
+Alberta,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,11725
+Alberta,  9 Occupations in manufacturing and utilities,  65 to 74 years,4205
+Alberta,  0 Management occupations,  75 years and over,21755
+Alberta,"  1 Business, finance and administration occupations",  75 years and over,6845
+Alberta,  2 Natural and applied sciences and related occupations,  75 years and over,1905
+Alberta,  3 Health occupations,  75 years and over,1525
+Alberta,"  4 Occupations in education, law and social, community and government services",  75 years and over,2850
+Alberta,"  5 Occupations in art, culture, recreation and sport",  75 years and over,1755
+Alberta,  6 Sales and service occupations,  75 years and over,7370
+Alberta,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,5220
+Alberta,"  8 Natural resources, agriculture and related production occupations",  75 years and over,4405
+Alberta,  9 Occupations in manufacturing and utilities,  75 years and over,840
+British Columbia / Colombie-Britannique,  0 Management occupations,  15 to 24 years,31800
+British Columbia / Colombie-Britannique,"  1 Business, finance and administration occupations",  15 to 24 years,110275
+British Columbia / Colombie-Britannique,  2 Natural and applied sciences and related occupations,  15 to 24 years,34600
+British Columbia / Colombie-Britannique,  3 Health occupations,  15 to 24 years,28790
+British Columbia / Colombie-Britannique,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,60160
+British Columbia / Colombie-Britannique,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,46610
+British Columbia / Colombie-Britannique,  6 Sales and service occupations,  15 to 24 years,563155
+British Columbia / Colombie-Britannique,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,147330
+British Columbia / Colombie-Britannique,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,41585
+British Columbia / Colombie-Britannique,  9 Occupations in manufacturing and utilities,  15 to 24 years,29025
+British Columbia / Colombie-Britannique,  0 Management occupations,  25 to 64 years,1046840
+British Columbia / Colombie-Britannique,"  1 Business, finance and administration occupations",  25 to 64 years,1306165
+British Columbia / Colombie-Britannique,  2 Natural and applied sciences and related occupations,  25 to 64 years,571155
+British Columbia / Colombie-Britannique,  3 Health occupations,  25 to 64 years,562405
+British Columbia / Colombie-Britannique,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,967350
+British Columbia / Colombie-Britannique,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,279615
+British Columbia / Colombie-Britannique,  6 Sales and service occupations,  25 to 64 years,1501215
+British Columbia / Colombie-Britannique,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,1151350
+British Columbia / Colombie-Britannique,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,168135
+British Columbia / Colombie-Britannique,  9 Occupations in manufacturing and utilities,  25 to 64 years,247855
+British Columbia / Colombie-Britannique,  0 Management occupations,    25 to 34 years,177665
+British Columbia / Colombie-Britannique,"  1 Business, finance and administration occupations",    25 to 34 years,274075
+British Columbia / Colombie-Britannique,  2 Natural and applied sciences and related occupations,    25 to 34 years,155540
+British Columbia / Colombie-Britannique,  3 Health occupations,    25 to 34 years,133730
+British Columbia / Colombie-Britannique,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,231270
+British Columbia / Colombie-Britannique,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,78205
+British Columbia / Colombie-Britannique,  6 Sales and service occupations,    25 to 34 years,401205
+British Columbia / Colombie-Britannique,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,273880
+British Columbia / Colombie-Britannique,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,42315
+British Columbia / Colombie-Britannique,  9 Occupations in manufacturing and utilities,    25 to 34 years,47655
+British Columbia / Colombie-Britannique,  0 Management occupations,  65 to 74 years,58005
+British Columbia / Colombie-Britannique,"  1 Business, finance and administration occupations",  65 to 74 years,59280
+British Columbia / Colombie-Britannique,  2 Natural and applied sciences and related occupations,  65 to 74 years,18645
+British Columbia / Colombie-Britannique,  3 Health occupations,  65 to 74 years,18285
+British Columbia / Colombie-Britannique,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,40030
+British Columbia / Colombie-Britannique,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,14995
+British Columbia / Colombie-Britannique,  6 Sales and service occupations,  65 to 74 years,67555
+British Columbia / Colombie-Britannique,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,40795
+British Columbia / Colombie-Britannique,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,9190
+British Columbia / Colombie-Britannique,  9 Occupations in manufacturing and utilities,  65 to 74 years,5710
+British Columbia / Colombie-Britannique,  0 Management occupations,  75 years and over,12710
+British Columbia / Colombie-Britannique,"  1 Business, finance and administration occupations",  75 years and over,9560
+British Columbia / Colombie-Britannique,  2 Natural and applied sciences and related occupations,  75 years and over,2425
+British Columbia / Colombie-Britannique,  3 Health occupations,  75 years and over,2345
+British Columbia / Colombie-Britannique,"  4 Occupations in education, law and social, community and government services",  75 years and over,4360
+British Columbia / Colombie-Britannique,"  5 Occupations in art, culture, recreation and sport",  75 years and over,3110
+British Columbia / Colombie-Britannique,  6 Sales and service occupations,  75 years and over,9905
+British Columbia / Colombie-Britannique,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,5680
+British Columbia / Colombie-Britannique,"  8 Natural resources, agriculture and related production occupations",  75 years and over,1970
+British Columbia / Colombie-Britannique,  9 Occupations in manufacturing and utilities,  75 years and over,1040
+Yukon,  0 Management occupations,  15 to 24 years,245
+Yukon,"  1 Business, finance and administration occupations",  15 to 24 years,680
+Yukon,  2 Natural and applied sciences and related occupations,  15 to 24 years,300
+Yukon,  3 Health occupations,  15 to 24 years,250
+Yukon,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,590
+Yukon,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,330
+Yukon,  6 Sales and service occupations,  15 to 24 years,4560
+Yukon,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,1975
+Yukon,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,320
+Yukon,  9 Occupations in manufacturing and utilities,  15 to 24 years,180
+Yukon,  0 Management occupations,  25 to 64 years,9985
+Yukon,"  1 Business, finance and administration occupations",  25 to 64 years,12865
+Yukon,  2 Natural and applied sciences and related occupations,  25 to 64 years,5760
+Yukon,  3 Health occupations,  25 to 64 years,3630
+Yukon,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,10640
+Yukon,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,2415
+Yukon,  6 Sales and service occupations,  25 to 64 years,9795
+Yukon,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,11155
+Yukon,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,875
+Yukon,  9 Occupations in manufacturing and utilities,  25 to 64 years,775
+Yukon,  0 Management occupations,    25 to 34 years,1210
+Yukon,"  1 Business, finance and administration occupations",    25 to 34 years,2640
+Yukon,  2 Natural and applied sciences and related occupations,    25 to 34 years,1255
+Yukon,  3 Health occupations,    25 to 34 years,755
+Yukon,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,2445
+Yukon,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,490
+Yukon,  6 Sales and service occupations,    25 to 34 years,2950
+Yukon,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,2840
+Yukon,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,150
+Yukon,  9 Occupations in manufacturing and utilities,    25 to 34 years,85
+Yukon,  0 Management occupations,  65 to 74 years,510
+Yukon,"  1 Business, finance and administration occupations",  65 to 74 years,470
+Yukon,  2 Natural and applied sciences and related occupations,  65 to 74 years,130
+Yukon,  3 Health occupations,  65 to 74 years,20
+Yukon,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,390
+Yukon,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,200
+Yukon,  6 Sales and service occupations,  65 to 74 years,335
+Yukon,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,760
+Yukon,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,20
+Yukon,  9 Occupations in manufacturing and utilities,  65 to 74 years,0
+Yukon,  0 Management occupations,  75 years and over,70
+Yukon,"  1 Business, finance and administration occupations",  75 years and over,15
+Yukon,  2 Natural and applied sciences and related occupations,  75 years and over,0
+Yukon,  3 Health occupations,  75 years and over,0
+Yukon,"  4 Occupations in education, law and social, community and government services",  75 years and over,80
+Yukon,"  5 Occupations in art, culture, recreation and sport",  75 years and over,0
+Yukon,  6 Sales and service occupations,  75 years and over,65
+Yukon,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,95
+Yukon,"  8 Natural resources, agriculture and related production occupations",  75 years and over,0
+Yukon,  9 Occupations in manufacturing and utilities,  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,  0 Management occupations,  15 to 24 years,345
+Northwest Territories / Territoires du Nord-Ouest,"  1 Business, finance and administration occupations",  15 to 24 years,1755
+Northwest Territories / Territoires du Nord-Ouest,  2 Natural and applied sciences and related occupations,  15 to 24 years,590
+Northwest Territories / Territoires du Nord-Ouest,  3 Health occupations,  15 to 24 years,350
+Northwest Territories / Territoires du Nord-Ouest,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,930
+Northwest Territories / Territoires du Nord-Ouest,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,515
+Northwest Territories / Territoires du Nord-Ouest,  6 Sales and service occupations,  15 to 24 years,4655
+Northwest Territories / Territoires du Nord-Ouest,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,2055
+Northwest Territories / Territoires du Nord-Ouest,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,375
+Northwest Territories / Territoires du Nord-Ouest,  9 Occupations in manufacturing and utilities,  15 to 24 years,240
+Northwest Territories / Territoires du Nord-Ouest,  0 Management occupations,  25 to 64 years,11825
+Northwest Territories / Territoires du Nord-Ouest,"  1 Business, finance and administration occupations",  25 to 64 years,13870
+Northwest Territories / Territoires du Nord-Ouest,  2 Natural and applied sciences and related occupations,  25 to 64 years,5870
+Northwest Territories / Territoires du Nord-Ouest,  3 Health occupations,  25 to 64 years,3805
+Northwest Territories / Territoires du Nord-Ouest,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,13305
+Northwest Territories / Territoires du Nord-Ouest,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,1535
+Northwest Territories / Territoires du Nord-Ouest,  6 Sales and service occupations,  25 to 64 years,9400
+Northwest Territories / Territoires du Nord-Ouest,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,11185
+Northwest Territories / Territoires du Nord-Ouest,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,1620
+Northwest Territories / Territoires du Nord-Ouest,  9 Occupations in manufacturing and utilities,  25 to 64 years,780
+Northwest Territories / Territoires du Nord-Ouest,  0 Management occupations,    25 to 34 years,1855
+Northwest Territories / Territoires du Nord-Ouest,"  1 Business, finance and administration occupations",    25 to 34 years,3645
+Northwest Territories / Territoires du Nord-Ouest,  2 Natural and applied sciences and related occupations,    25 to 34 years,2335
+Northwest Territories / Territoires du Nord-Ouest,  3 Health occupations,    25 to 34 years,1300
+Northwest Territories / Territoires du Nord-Ouest,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,4385
+Northwest Territories / Territoires du Nord-Ouest,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,330
+Northwest Territories / Territoires du Nord-Ouest,  6 Sales and service occupations,    25 to 34 years,2615
+Northwest Territories / Territoires du Nord-Ouest,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,2920
+Northwest Territories / Territoires du Nord-Ouest,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,600
+Northwest Territories / Territoires du Nord-Ouest,  9 Occupations in manufacturing and utilities,    25 to 34 years,240
+Northwest Territories / Territoires du Nord-Ouest,  0 Management occupations,  65 to 74 years,350
+Northwest Territories / Territoires du Nord-Ouest,"  1 Business, finance and administration occupations",  65 to 74 years,290
+Northwest Territories / Territoires du Nord-Ouest,  2 Natural and applied sciences and related occupations,  65 to 74 years,90
+Northwest Territories / Territoires du Nord-Ouest,  3 Health occupations,  65 to 74 years,10
+Northwest Territories / Territoires du Nord-Ouest,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,355
+Northwest Territories / Territoires du Nord-Ouest,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,45
+Northwest Territories / Territoires du Nord-Ouest,  6 Sales and service occupations,  65 to 74 years,390
+Northwest Territories / Territoires du Nord-Ouest,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,250
+Northwest Territories / Territoires du Nord-Ouest,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,20
+Northwest Territories / Territoires du Nord-Ouest,  9 Occupations in manufacturing and utilities,  65 to 74 years,10
+Northwest Territories / Territoires du Nord-Ouest,  0 Management occupations,  75 years and over,20
+Northwest Territories / Territoires du Nord-Ouest,"  1 Business, finance and administration occupations",  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,  2 Natural and applied sciences and related occupations,  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,  3 Health occupations,  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,"  4 Occupations in education, law and social, community and government services",  75 years and over,15
+Northwest Territories / Territoires du Nord-Ouest,"  5 Occupations in art, culture, recreation and sport",  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,  6 Sales and service occupations,  75 years and over,55
+Northwest Territories / Territoires du Nord-Ouest,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,"  8 Natural resources, agriculture and related production occupations",  75 years and over,0
+Northwest Territories / Territoires du Nord-Ouest,  9 Occupations in manufacturing and utilities,  75 years and over,0
+Nunavut,  0 Management occupations,  15 to 24 years,175
+Nunavut,"  1 Business, finance and administration occupations",  15 to 24 years,740
+Nunavut,  2 Natural and applied sciences and related occupations,  15 to 24 years,85
+Nunavut,  3 Health occupations,  15 to 24 years,65
+Nunavut,"  4 Occupations in education, law and social, community and government services",  15 to 24 years,965
+Nunavut,"  5 Occupations in art, culture, recreation and sport",  15 to 24 years,365
+Nunavut,  6 Sales and service occupations,  15 to 24 years,3200
+Nunavut,"  7 Trades, transport and equipment operators and related occupations",  15 to 24 years,1185
+Nunavut,"  8 Natural resources, agriculture and related production occupations",  15 to 24 years,80
+Nunavut,  9 Occupations in manufacturing and utilities,  15 to 24 years,90
+Nunavut,  0 Management occupations,  25 to 64 years,4680
+Nunavut,"  1 Business, finance and administration occupations",  25 to 64 years,6495
+Nunavut,  2 Natural and applied sciences and related occupations,  25 to 64 years,1560
+Nunavut,  3 Health occupations,  25 to 64 years,1245
+Nunavut,"  4 Occupations in education, law and social, community and government services",  25 to 64 years,8350
+Nunavut,"  5 Occupations in art, culture, recreation and sport",  25 to 64 years,1530
+Nunavut,  6 Sales and service occupations,  25 to 64 years,6325
+Nunavut,"  7 Trades, transport and equipment operators and related occupations",  25 to 64 years,5760
+Nunavut,"  8 Natural resources, agriculture and related production occupations",  25 to 64 years,505
+Nunavut,  9 Occupations in manufacturing and utilities,  25 to 64 years,460
+Nunavut,  0 Management occupations,    25 to 34 years,845
+Nunavut,"  1 Business, finance and administration occupations",    25 to 34 years,2380
+Nunavut,  2 Natural and applied sciences and related occupations,    25 to 34 years,590
+Nunavut,  3 Health occupations,    25 to 34 years,390
+Nunavut,"  4 Occupations in education, law and social, community and government services",    25 to 34 years,2985
+Nunavut,"  5 Occupations in art, culture, recreation and sport",    25 to 34 years,325
+Nunavut,  6 Sales and service occupations,    25 to 34 years,2175
+Nunavut,"  7 Trades, transport and equipment operators and related occupations",    25 to 34 years,1740
+Nunavut,"  8 Natural resources, agriculture and related production occupations",    25 to 34 years,200
+Nunavut,  9 Occupations in manufacturing and utilities,    25 to 34 years,90
+Nunavut,  0 Management occupations,  65 to 74 years,140
+Nunavut,"  1 Business, finance and administration occupations",  65 to 74 years,90
+Nunavut,  2 Natural and applied sciences and related occupations,  65 to 74 years,40
+Nunavut,  3 Health occupations,  65 to 74 years,40
+Nunavut,"  4 Occupations in education, law and social, community and government services",  65 to 74 years,295
+Nunavut,"  5 Occupations in art, culture, recreation and sport",  65 to 74 years,30
+Nunavut,  6 Sales and service occupations,  65 to 74 years,115
+Nunavut,"  7 Trades, transport and equipment operators and related occupations",  65 to 74 years,90
+Nunavut,"  8 Natural resources, agriculture and related production occupations",  65 to 74 years,0
+Nunavut,  9 Occupations in manufacturing and utilities,  65 to 74 years,10
+Nunavut,  0 Management occupations,  75 years and over,0
+Nunavut,"  1 Business, finance and administration occupations",  75 years and over,0
+Nunavut,  2 Natural and applied sciences and related occupations,  75 years and over,0
+Nunavut,  3 Health occupations,  75 years and over,0
+Nunavut,"  4 Occupations in education, law and social, community and government services",  75 years and over,65
+Nunavut,"  5 Occupations in art, culture, recreation and sport",  75 years and over,0
+Nunavut,  6 Sales and service occupations,  75 years and over,0
+Nunavut,"  7 Trades, transport and equipment operators and related occupations",  75 years and over,0
+Nunavut,"  8 Natural resources, agriculture and related production occupations",  75 years and over,0
+Nunavut,  9 Occupations in manufacturing and utilities,  75 years and over,0
